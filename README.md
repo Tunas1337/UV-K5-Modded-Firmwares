@@ -6,6 +6,8 @@ This repository contains several firmwares, modified by:
 - [@fagci](https://github.com/fagci)
 - [@Tunas1337](https://github.com/Tunas1337)
 
+Discussion of these firmwares, and other things related to the radio, can be done in the Telegram groups: [English](https://t.me/quansheng_uvk5_en), [Russian](https://t.me/uv_k5), [Spanish.](https://t.me/QuanShengES)
+
 The new features so far include, but are not limited to:
 - Regular (FM) reception from 18-850MHz (1300MHz with the extended mod)
 - AM reception from 18-136MHz (850MHz with the extended mod)

@@ -9,7 +9,9 @@ This repository contains several firmwares, modified by:
 Discussion of these firmwares, and other things related to the radio, can be done in the Telegram groups: [English](https://t.me/quansheng_uvk5_en), [Russian](https://t.me/uv_k5), [Spanish.](https://t.me/QuanShengES)
 
 You can support the authors with a donation at the following links:
-Tunas1337: [PayPal](https://www.paypal.com/donate/?business=C44RNB6MGGW26&no_recurring=0&item_name=If+you+like+my+work+on+adding+new+features+to+the+Quansheng+UV-K5%2C+I%27d+appreciate+your+support.&currency_code=USD)
+
+Tunas1337:
+[PayPal](https://www.paypal.com/donate/?business=C44RNB6MGGW26&no_recurring=0&item_name=If+you+like+my+work+on+adding+new+features+to+the+Quansheng+UV-K5%2C+I%27d+appreciate+your+support.&currency_code=USD)
 
 The new features so far include, but are not limited to:
 - Regular (FM) reception from 18-850MHz (1300MHz with the extended mod)

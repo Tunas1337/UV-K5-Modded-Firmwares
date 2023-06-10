@@ -6,6 +6,8 @@ This repository contains several firmwares, modified by:
 - [@fagci](https://github.com/fagci)
 - [@Tunas1337](https://github.com/Tunas1337)
 
+Special thanks also goes to [@sq5bpf](https://github.com/sq5bpf) for his [work](https://github.com/sq5bpf/uvk5-reverse-engineering) in reverse engineering the communication protocols, frequency storage formats, memory maps and more.
+
 Discussion of these firmwares, and other things related to the radio, can be done in the Telegram groups: [English](https://t.me/quansheng_uvk5_en), [Russian](https://t.me/uv_k5), [Spanish.](https://t.me/QuanShengES)
 
 You can support the authors with a donation at the following links:

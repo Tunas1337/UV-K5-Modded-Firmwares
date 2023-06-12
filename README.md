@@ -1,6 +1,8 @@
 # UV-K5-Modded-Firmwares
 A collection of modified firmwares for the Quansheng UV-K5 radio.
 
+*If you would like to build your own firmware with only the modifications that suit you, check out @amnemonic's excellent [uvmod-kitchen](https://github.com/amnemonic/Quansheng_UV-K5_Firmware/tree/main/uvmod_kitchen).*
+
 This repository contains several firmwares, modified by:
 - [@amnemonic](https://github.com/amnemonic)
 - [@fagci](https://github.com/fagci)

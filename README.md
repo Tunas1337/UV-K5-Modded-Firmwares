@@ -1,3 +1,5 @@
+### This repository is pretty much superseded by newer, better efforts to manipulate the Quansheng UV-K5 firmware. Go [here](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) for many more resources.
+
 * **Warning:** The Quansheng UV-K5 CAN NOT receive signals between 630-840MHz. This is a hardware limitation of the Beken BK4819 baseband chip. Please do not open issues about this, it is impossible to fix in software.
 
 # EVEN BIGGER WARNING
